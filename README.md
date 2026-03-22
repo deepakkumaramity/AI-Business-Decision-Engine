@@ -29,5 +29,5 @@ Raw Data → Data Processing → ML Model → Decision Engine → Dashboard
 ## 📸 Output
 (Add screenshots here)
 
-## 👨‍💻 Author
+## 👨‍💻 Author Deepak kumar
 Your Name
