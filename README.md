@@ -1,7 +1,10 @@
-# AI Business Decision Engine
+# AI Business Decision Engine 🚀
 
-## 🚀 Problem
-Businesses struggle to identify risky customers, churn probability, and profitability.
+## 📌 Problem
+Businesses struggle to identify:
+- Risky customers
+- Churn probability
+- Profitability
 
 ## 💡 Solution
 This project builds an AI-based decision engine that predicts:
@@ -12,8 +15,19 @@ This project builds an AI-based decision engine that predicts:
 ## 🛠️ Tech Stack
 - Python
 - Machine Learning
-- Power BI
 - Streamlit
+- Power BI
 
-## 📸 Demo
-![Banner](images/banner.png)
+## 📊 Project Architecture
+Raw Data → Data Processing → ML Model → Decision Engine → Dashboard
+
+## 🚀 How to Run
+1. Install requirements.txt
+2. Run model training
+3. Run Streamlit app
+
+## 📸 Output
+(Add screenshots here)
+
+## 👨‍💻 Author
+Your Name
