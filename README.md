@@ -27,7 +27,8 @@ Raw Data → Data Processing → ML Model → Decision Engine → Dashboard
 3. Run Streamlit app
 
 ## 📸 Output
-(Add screenshots here)
+<img width="1536" height="1024" alt="Screen shot" src="https://github.com/user-attachments/assets/eec057f2-1939-4e1b-b3f2-95797ae8a78e" />
+
 
 ## 👨‍💻 Author
 Deepak kumar
