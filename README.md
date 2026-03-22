@@ -62,7 +62,8 @@ This project builds an **AI-Powered Decision Engine** that helps businesses:
 📊 Dashboard & Streamlit App  
 
 ## 📸 Output
-<img width="1536" height="1024" alt="Screen shot" src="https://github.com/user-attachments/assets/eec057f2-1939-4e1b-b3f2-95797ae8a78e" />
+
+<img width="964" height="595" alt="Screenshot 2026-03-22 131441" src="https://github.com/user-attachments/assets/800a8a5d-bc8a-4486-b3dd-891ccf2a70ab" />
 
 
 ## 👨‍💻 Author
